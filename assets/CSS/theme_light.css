@@ -1,0 +1,441 @@
+.header {
+background: #172027;
+}
+
+.telephone {
+color: #FFFFFF;
+}
+
+.reservation {
+color: #FFFFFF;
+background: linear-gradient(360deg, #077A34 0%, #19E270 100%);
+box-shadow: 0px 9px 48px rgba(24, 220, 109, 0.15);
+}
+
+.reservation a{
+	color: #FFFFFF;
+}
+
+.reservation a:hover{
+	background: #FFFFFF;
+	border-color: #FFFFFF;
+border: 1px solid #18DE6E;
+color: #18DC6D;
+
+}
+
+.text {
+color: #FFFFFF;
+}
+
+.menu {
+background: #F2F2F3;
+}
+
+.tabs li a{
+	color:#0F0F10 ;
+}
+
+.tabs li a:hover{
+	color:#E31E24;
+}
+
+
+.rectangle_1 {
+background-image: linear-gradient(81.5deg, rgba(0, 0, 0, 0.584) 40.95%, rgba(0, 0, 0, 0) 99.79%);
+}
+
+.imgg{
+	background-image: linear-gradient(81.5deg, rgba(0, 0, 0, 0.584) 40.95%, rgba(0, 0, 0, 0) 99.79%);
+}
+
+.text_2{
+color: #FFFFFF;
+}
+
+.text_3{
+color: #FFFFFF;
+}
+
+.testdr{
+background: linear-gradient(360deg, #077A34 0%, #19E270 100%);
+box-shadow: 0px 9px 48px rgba(24, 220, 109, 0.15);
+color: #fff;
+}
+.testdr a{
+	color: #FFFFFF;
+}
+
+.rent a{
+	color: #FFFFFF;
+;
+}
+
+.testdr a:hover{
+	background: #FFFFFF;
+	border-color: #FFFFFF;
+border: 5px solid #18DE6E;
+color: #18DC6D;
+
+}
+
+.rent{
+background: linear-gradient(360deg, #A8180F 0%, #DD463D 100%);
+box-shadow: 0px 9px 48px rgba(211, 61, 52, 0.24);
+}
+
+.text_4{
+color: #0F0F10;
+}
+
+.cars_1{
+background: #FFFFFF;
+
+box-shadow: 0px 9px 49px rgba(142, 136, 136, 0.16);
+}
+
+.text_5 {
+color: #0F0F10;
+}
+
+.priv{
+color: #0F0F10;
+}
+
+.zap{
+color: #0F0F10;
+
+}
+
+.prob{
+color: #0F0F10;
+}
+
+.goddd{
+color: #0F0F10;
+}
+
+.sel{
+color: #0F0F10;
+}
+
+.privv{
+color: #0F0F10;
+}
+
+.zapp{
+color: #0F0F10;
+}
+
+.probb{
+color: #0F0F10;
+}
+
+.godd{
+color: #0F0F10;
+}
+
+.selll{
+color: #0F0F10;
+}
+
+.btn{
+background: linear-gradient(360deg, #077A34 0%, #19E270 100%);
+box-shadow: 0px 9px 48px rgba(24, 220, 109, 0.15);
+}
+
+.btn a{
+	color: #FFFFFF;
+}
+
+.text_6 {
+color: #0F0F10;
+}
+
+.priv2{
+color: #0F0F10;
+}
+
+.zap2{
+color: #0F0F10;
+
+}
+
+.prob2{
+color: #0F0F10;
+}
+
+.goddd2{
+color: #0F0F10;
+}
+
+.sel2{
+color: #0F0F10;
+}
+
+.privv2{
+color: #0F0F10;
+}
+
+.zapp2{
+color: #0F0F10;
+}
+
+.probb2{
+color: #0F0F10;
+}
+
+.godd2{
+color: #0F0F10;
+}
+
+.selll2{
+color: #0F0F10;
+}
+
+.btn2{
+background: linear-gradient(360deg, #077A34 0%, #19E270 100%);
+box-shadow: 0px 9px 48px rgba(24, 220, 109, 0.15);
+}
+
+.btn2 a{
+	color: #FFFFFF;
+}
+
+.cars_2 {
+
+background: #FFFFFF;
+box-shadow: 0px 9px 49px rgba(142, 136, 136, 0.16);
+}
+
+.text_7 {
+color: #0F0F10;
+}
+
+.priv3{
+color: #0F0F10;
+}
+
+.zap3{
+color: #0F0F10;
+
+}
+
+.prob3{
+color: #0F0F10;
+}
+
+.goddd3{
+color: #0F0F10;
+}
+
+.sel3{
+color: #0F0F10;
+}
+
+.privv3{
+color: #0F0F10;
+}
+
+.zapp3{
+color: #0F0F10;
+}
+
+.probb3{
+color: #0F0F10;
+}
+
+.godd3{
+color: #0F0F10;
+}
+
+.selll3{
+color: #0F0F10;
+}
+
+.btn3{
+background: linear-gradient(360deg, #077A34 0%, #19E270 100%);
+box-shadow: 0px 9px 48px rgba(24, 220, 109, 0.15);
+}
+
+.btn3 a{
+	color: #FFFFFF;
+}
+
+.cars_3 {
+background: #FFFFFF;
+box-shadow: 0px 9px 49px rgba(142, 136, 136, 0.16);
+}
+
+.btnn {
+background: linear-gradient(360deg, #A8180F 0%, #DD463D 100%);
+box-shadow: 0px 9px 48px rgba(211, 61, 52, 0.24);
+
+}
+
+.btnn a{
+	color: #FFFFFF;
+}
+
+.rectangle_3 {
+background: #EEEEEE;
+box-shadow: 0px 9px 49px rgba(142, 136, 136, 0.16);
+}
+
+.text_8{
+color: #0F0F10;
+}
+
+.ecolo {
+color: #0F0F10;
+}
+
+.a1{
+color: #0F0F10;
+}
+
+.erc{
+color: #0F0F10;
+}
+
+.a2{
+color: #0F0F10;
+}
+
+.def{
+color: #0F0F10;
+}
+
+.a3{
+color: #0F0F10;
+}
+
+.top{
+color: #0F0F10;
+}
+
+.a4{
+color: #0F0F10;
+}
+
+.serv{
+color: #0F0F10;
+}
+
+.a5{
+color: #0F0F10;
+}
+
+.isp{
+color: #0F0F10;
+}
+
+.a6{
+color: #0F0F10;
+}
+
+.text_9{
+color: #0F0F10;
+}
+
+.map{
+filter: drop-shadow(0px 5px 48px rgba(49, 47, 47, 0.1));
+}
+
+.mats{
+color: #0F0F10;
+}
+
+.carr1{
+filter: drop-shadow(0px 5px 48px rgba(49, 47, 47, 0.1));
+}
+
+.texxt_1{
+color: #0F0F10;
+}
+
+.texxt1{
+color: #0F0F10;
+}
+
+.carr2{
+filter: drop-shadow(0px 5px 48px rgba(49, 47, 47, 0.1));
+}
+
+.texxt_2{
+color: #0F0F10;
+}
+
+.texxt2{
+color: #0F0F10;
+}
+
+.carr3{
+filter: drop-shadow(0px 5px 48px rgba(49, 47, 47, 0.1));
+}
+
+.texxt_3{
+color: #0F0F10;
+}
+
+.texxt3{
+color: #0F0F10;
+}
+
+.basement {
+background: #797C7D;
+}
+
+
+
+.tabs1 li a{
+	color:#FFFFFF ;
+}
+
+.tabs1 li a:hover{
+	color:#E31E24;
+}
+
+
+.inco{
+color: #FFFFFF;
+}
+
+.telephone1{
+color: #FFFFFF;
+}
+
+.reservation1{
+background: linear-gradient(360deg, #077A34 0%, #19E270 100%);
+box-shadow: 0px 9px 48px rgba(24, 220, 109, 0.15);
+}
+
+.reservation1 a{
+	color: #FFFFFF;
+}
+
+.go-top {
+  color: rgba(0, 51, 153, 0.5);
+  border: 1px solid rgba(0, 51, 153, 0.5);
+  background-color: rgba(0, 51, 153, 0.1);
+}
+
+/* меняем прозрачность при наведении мышкой */
+.go-top:hover {
+  color: rgba(0, 51, 153, 0.8);
+  border: 1px solid rgba(0, 51, 153, 0.8);
+  background-color: rgba(0, 51, 153, 0.15);
+}
+
+.theme {
+    background: #ffffff;
+    box-shadow: 0 0 10px rgba(39,38,40,0.4);
+}
+
+.change-theme[data-theme="dark"]{
+	display: block;
+}
+
+.change-theme[data-theme="ligth"]{
+	display: none;
+}
